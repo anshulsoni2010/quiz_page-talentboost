@@ -15,11 +15,11 @@ d) // This is a comment
 --- Answer: a) <!-- This is a comment -->
 
 Q3-Which HTML tag is used to define a table?
-a) <table>
-b) <tr>
+a) <tr>
+b) <table>
 c) <td>
 d) <th>
---- Answer: a) <table>
+--- Answer: b) <table>
 
 Q4-What is the purpose of the header tag in HTML?
 A) The header tag in HTML is used to define the body content of a document or section.

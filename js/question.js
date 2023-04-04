@@ -14,8 +14,8 @@ const quiz = [
 		answer: 0
 	},
 	{
-		q: 'What is the newest version of HTML being developed?',
-		options: ['HTML4', 'HTML6', 'HTML5', 'There is only one type of HTML'],
+		q: 'Which HTML tag is used to define a table?',
+		options: ['<tr>','<table>','<td>','<th>'],
 		answer: 2
 	},
 	{
