@@ -4,9 +4,9 @@
 
 const quiz =[
 {
-	q:'Is HTML a programming language?',
-	options:['Yes','No'],
-	answer:1
+	q:' Which of the following is used to add an image to an HTML page?',
+	options:['<img src="image.jpg">','<image href="image.jpg">','<img link="image.jpg">','<image src="image.jpg">'],
+	answer:0
 },
 {
 	q:'What is one of the reasons Java is different to Javascript?',
