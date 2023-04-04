@@ -2,97 +2,79 @@
 -- correct mark
 
 
-Q2: What is one of the reasons Java is different to Javascript?
---Java is compiled before it runs and isn't limited to being on a web browser.
--Javascript is compiled before it runs and isn't limited to being on a web browser.
--Javascript is barely used anymore since Java came out.
--Java is just short for javascript
+Q1- Which of the following is used to add an image to an HTML page?
+a) <img src="image.jpg">
+b) <image href="image.jpg">
+c) <img link="image.jpg">
+d) <image src="image.jpg">
+--- Answer: a) <img src="image.jpg">
+
+Q2- What is the correct way to add a comment in HTML?
+a) <!-- This is a comment -->
+b) <comment>This is a comment</comment>
+c) # This is a comment #
+d) // This is a comment
+--- Answer: a) <!-- This is a comment -->
+
+Q3-Which HTML tag is used to define a table?
+a) <table>
+b) <tr>
+c) <td>
+d) <th>
+--- Answer: a) <table>
+
+Q4-What is the purpose of the header tag in HTML?
+A) The header tag in HTML is used to define the body content of a document or section.
+B) The header tag in HTML is used to define a footer section for a document or section.
+C) The header tag in HTML is used to define a header section for a document or section, which typically contains a title, logo, navigation menu, or other important information.
+
+--- Answer: C) The header tag in HTML is used to define a header section for a document or section, which typically contains a title, logo, navigation menu, or other important information.
+
+Q5- Which of the following is the purpose of the header tag in HTML?
+a) To define a footer section for a document or section.
+b) To insert an image in a document.
+c) To create a list of items.
+
+d) To define a header section for a document or section, which typically contains a title, logo, navigation menu, or other important information.
+--- answer: d) To define a header section for a document or section, which typically contains a title, logo, navigation menu, or other important information.
+
+Q6- What is the correct syntax for an HTML5 doctype declaration?
+a) <!DOCTYPE HTML5>
+b) <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML5.0//EN" "http://www.w3.org/TR/html5/strict.dtd">
+c) <!DOCTYPE html>
+d) None of the above
+Answer: c) <!DOCTYPE html>
+
+Q7- Which of the following is NOT a valid HTML5 tag?
+a) <article>
+b) <aside>
+c) <dialog>
+d) <section/>
+Answer: d) <section/>
+
+Q8- Which of the following attributes specifies the target for a link?
+a) src
+b) href
+c) target
+d) link
+Answer: c) target
+
+Q9- Which of the following is the correct syntax for an external JavaScript file?
+a) <script href="myscript.js"></script>
+b) <script type="text/javascript" src="myscript.js"></script>
+c) <script file="myscript.js"></script>
+d) <script src="myscript.js"></script>
+Answer: d) <script src="myscript.js"></script>
+
+Q10- Which of the following tags is used to define a table header cell?
+a) <td>
+b) <th>
+c) <tr>
+d) <table-head>
+Answer: b) <th>
 
 
-Q3: What is the newest version of HTML being developed?
--- HTML5
-- HTML4
-- HTML3
-- Tere is only on type of HTML.
-
-Q4: What does CSS stand for?
-- Complete Sound Sheet
--- Cascading Style Sheet
-- Cscading Style Syntax
-
-Q5: Non animated gifs are usually lower in file size, why don't people use them for photos
-- Because it hasn't caught on.
-- They are limited to 256 colours.
--- When they are made to be over 256 colours the image size is larger then png or jpeg most of the time
 
 
-Q6:  Why are the marquee and blink elements not used in most sites?
-- Because they are complex.
--- They are distracting and decrease Usability.
-- You need to pay for a lisencse to use them.
-- None of the above
 
-Q7: What happens to a lot of images saved as jpgs when you put them online.
-- Stretching
-- They are too big in file size.
--- Lower quality and artifacts.
-- They'll turn blur
-
-Q8: Which is the correct CSS syntax?
--- Body {color: black}
-- {body;color:black}
-- {body:color=black(body}
-- body:color=black
-
-Q9: What does a compiler do?   
-- Makes code start
-- Tests to see whether the program runs fine
--- Converts the coding into another computer language, usually to make an executable program.
-
-
-Q10: What is an advantage of having external CSS?
-- It is faste
--- You can edit one file to edit the base of every page which uses it.
-- It makes no no difference
-- 
-
-Q11: What does the acronym WWW stand for?
-- Wide Wacky Walter
-- Web Wide Wave
-- Wide Wall Web
-- Web World Wall
--- World Wide Web
-
-Q12 : 	
-HTML is what type of language ?
-- Scripting Language
--Programming Language
--- Markup language
-- Pre specific tags
--
-
-Q13: HTML uses 
-- User defined tagsB
-- Pre-specified tags
--- Fixed tags defined by the language
-- Tags only for linking
-
-Q14: The year in which HTML was first proposed _______.
--- 1993 
-- 2000
-- 2015
-- 1950
-
-Q15: Apart from <b> tag, what other tag makes text bold ?
-- <fat>
-- <black>
--- <strong>
-- <emp>
-
-Q16: 	
-HTML web pages can be read and rendered by _________.
-- Web designer
-- Server
-- Interpreter
--- Web browser
 
