@@ -1,5 +1,3 @@
-- Wrong mark
--- correct mark
 
 
 Q1- Which of the following is used to add an image to an HTML page?
