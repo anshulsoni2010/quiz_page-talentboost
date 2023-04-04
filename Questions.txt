@@ -32,7 +32,6 @@ Q5- Which of the following is the purpose of the header tag in HTML?
 a) To define a footer section for a document or section.
 b) To insert an image in a document.
 c) To create a list of items.
-
 d) To define a header section for a document or section, which typically contains a title, logo, navigation menu, or other important information.
 --- answer: d) To define a header section for a document or section, which typically contains a title, logo, navigation menu, or other important information.
 
