@@ -9,14 +9,14 @@ const quiz = [
 		answer: 0
 	},
 	{
-		q: 'What is the correct way to add a comment in HTML?',
-		options: ['<!-- This is a comment -->', '<comment>This is a comment</comment>', '# This is a comment #', '// This is a comment'],
-		answer: 0
+		q: 'What is the difference between XML and HTML?',
+		options: ['HTML is used for exchanging data, XML is not.', 'XML is used for exchanging data, HTML is not', 'HTML can have user defined tags, XML cannot'],
+		answer: 0// not confirmed
 	},
 	{
-		q: 'Which HTML tag is used to define a table?',
-		options: ['<tr>','<table>','<td>','<th>'],
-		answer: 1
+		q: 'Opening Tag of HTML Tag is called as ________.',
+		options: ['Closed Tag','Starting Tag','Forward Tag','ending Tag'],
+		answer: 0// not confirmed
 	},
 	{
 		q: 'What is the purpose of the header tag in HTML?',
@@ -29,9 +29,9 @@ const quiz = [
 		answer: 3
 	},
 	{
-		q: 'What is a the correct syntax for an HTML5 documentation?',
-		options: ['<!DOCTYPE HTML5>', '<html5>>', '<!DOCTYPE html>', 'Non of the above'],
-		answer: 2
+		q: ' HTML Code written in MAC can be browsed in a PC with Window 7 installed , User will be able to see same design that was designed on the MAC Pc.',
+		options: ['True','False'],
+		answer: 1
 	},
 	{
 		q: 'Which of the following is NOT a valid HTML5 tag?',
