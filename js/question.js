@@ -11,12 +11,12 @@ const quiz = [
 	{
 		q: 'What is the difference between XML and HTML?',
 		options: ['HTML is used for exchanging data, XML is not.', 'XML is used for exchanging data, HTML is not', 'HTML can have user defined tags, XML cannot'],
-		answer: 0// not confirmed
+		answer: 1
 	},
 	{
 		q: 'Opening Tag of HTML Tag is called as ________.',
-		options: ['Closed Tag','Starting Tag','Forward Tag','ending Tag'],
-		answer: 0// not confirmed
+		options: ['Closed Tag', 'Starting Tag', 'Forward Tag', 'ending Tag'],
+		answer: 1
 	},
 	{
 		q: 'What is the purpose of the header tag in HTML?',
@@ -30,28 +30,26 @@ const quiz = [
 	},
 	{
 		q: ' HTML Code written in MAC can be browsed in a PC with Window 7 installed , User will be able to see same design that was designed on the MAC Pc.',
-		options: ['True','False'],
+		options: ['True', 'False'],
 		answer: 1
 	},
 	{
-		q: 'Which of the following is NOT a valid HTML5 tag?',
-		options: ['<article>', '<aside>', '<dialog>', '<section/>'],
-		answer: 2
-	},
+		q: 'The href attribute in the link tag specifies the:',
+		options: ['Destination of a link.', 'link', 'Hypertext', 'None of the above'],
+		answer: 0},
 	{
 		q: 'Which of the following attributes specifies the target for a link? ',
-		options: ['srct', 'href', 'target','link'],
+		options: ['srct', 'href', 'target', 'link'],
 		answer: 2
 	},
 	{
-		q: 'Which of the following is the correct syntax for an external JavaScript file?',
-		options: ['<script href="myscript.js"></script>', '<script type="text/javascript" src="myscript.js"></script>', '<script file="myscript.js"></script>','<script src="myscript.js"></script>'],
-		answer: 3
-	},
+		q: 'Which of the following attributes comes in handy when borders have to be put between groups of columns instead of every column?',
+		options: ['col', 'colgroup', 'rowspan', 'row'],
+		answer: 1},
 	{
-		q: ' Which of the following tags is used to define a table header cell?',
-		options: ['<td>', '<th>', '<tr>', '<table-head'],
-		answer: 1
+		q: ' Caption Tag in HTML ?',
+		options: ['Is used to display the Title for table at the top', 'Is used to display the Title for table at the bottom', 'both', 'none'],
+		answer: 2
 	}
 ]
 
