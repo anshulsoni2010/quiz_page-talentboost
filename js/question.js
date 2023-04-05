@@ -4,8 +4,8 @@
 
 const quiz = [
 	{
-		q: ' Which of the following is used to add an image to an HTML page?',
-		options: ['<img src="image.jpg">', '<image href="image.jpg">', '<img link="image.jpg">', '<image src="image.jpg">'],
+		q: 'Why we used HTML in Web Development?',
+		options: ['We use HTML for creating structure and writing content of the web page', 'We use HTML to design the whole webpage', 'We Use HTML to add some logic/algorithm in website'],
 		answer: 0
 	},
 	{
