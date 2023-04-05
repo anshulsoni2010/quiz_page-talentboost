@@ -25,32 +25,32 @@ const quiz = [
 	},
 	{
 		q: 'Which of the following is the purpose of the header tag in HTML?',
-		options: ["To define a footer section for a document or section.", 'To insert an image in a document.', 'To create a list of items.', 'To define a header section for a document or section, which typically contains a title, logo, navigation menu, or other important information.'],
+		options: ['To define a footer section for a document or section.', 'To insert an image in a document.', 'To create a list of items.', 'To define a header section for a document or section, which typically contains a title, logo, navigation menu, or other important information.'],
 		answer: 3
 	},
 	{
-		q: "What is a the correct syntax for an HTML5 documentation?",
-		options: ['<!DOCTYPE HTML5>', "<html5>>", '<!DOCTYPE html>', 'Non of the above'],
+		q: 'What is a the correct syntax for an HTML5 documentation?',
+		options: ['<!DOCTYPE HTML5>', '<html5>>', '<!DOCTYPE html>', 'Non of the above'],
 		answer: 2
 	},
 	{
-		q: "Which of the following is NOT a valid HTML5 tag?",
-		options: ["<article>", "<aside>", "<dialog>", "<section/>"],
+		q: 'Which of the following is NOT a valid HTML5 tag?',
+		options: ['<article>', '<aside>', '<dialog>', '<section/>'],
 		answer: 2
 	},
 	{
-		q: "Which of the following attributes specifies the target for a link? ",
-		options: ["srct", "href", "target","link"],
+		q: 'Which of the following attributes specifies the target for a link? ',
+		options: ['srct', 'href', 'target','link'],
 		answer: 2
 	},
 	{
-		q: "Which of the following is the correct syntax for an external JavaScript file?",
+		q: 'Which of the following is the correct syntax for an external JavaScript file?',
 		options: ['<script href="myscript.js"></script>', '<script type="text/javascript" src="myscript.js"></script>', '<script file="myscript.js"></script>','<script src="myscript.js"></script>'],
 		answer: 3
 	},
 	{
-		q: " Which of the following tags is used to define a table header cell?",
-		options: ["<td>", "<th>", "<tr>", "<table-head"],
+		q: ' Which of the following tags is used to define a table header cell?',
+		options: ['<td>', '<th>', '<tr>', '<table-head'],
 		answer: 1
 	}
 ]
